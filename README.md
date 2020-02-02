@@ -1,4 +1,4 @@
-# Repairrrites - The Game
+# Repairrrates - The Game
 
 This game was made during the GGJ2020 under the theme Repair.
 
